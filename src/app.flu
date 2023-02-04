@@ -1,0 +1,15 @@
+[init]
+
+app.id 42
+app.name "Fluent Blueprint"
+set.icon !protected !lock 
+.bg #red4
+
+
+[start]
+must.be guest else [login]
+
+
+
+[login]
+.t "Please Login"
