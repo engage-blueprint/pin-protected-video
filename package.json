@@ -1,0 +1,11 @@
+{
+  "name": "pin-protected-video",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/engage-blueprint/pin-protected-video",
+  "author": "Engage <124444387+engage-blueprint@users.noreply.github.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "zx": "^7.1.1"
+  }
+}
